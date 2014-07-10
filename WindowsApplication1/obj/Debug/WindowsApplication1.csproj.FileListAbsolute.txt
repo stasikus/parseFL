@@ -1,0 +1,157 @@
+D:\Мои документы\Alex Naidionov\C#\http\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\http\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+c:\111\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\111\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+c:\111\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+c:\111\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\111\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+c:\111\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+c:\111\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\111\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Мои документы\Alex Naidionov\C#\jino_ru\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\jino_ru\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Мои документы\Alex Naidionov\C#\jino_ru\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Alex Naidionov\C#\jino_ru\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Мои документы\Alex Naidionov\C#\jino_ru\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Мои документы\Alex Naidionov\C#\jino_ru\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\Мои документы\Alex Naidionov\C#\jino_ru\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\jino_ru\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Мои документы\Alex Naidionov\C#\vk_save_img\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\vk_save_img\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Мои документы\Alex Naidionov\C#\vk_save_img\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\vk_save_img\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Мои документы\Alex Naidionov\C#\vk_save_img\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Alex Naidionov\C#\vk_save_img\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Мои документы\Alex Naidionov\C#\vk_save_img\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Мои документы\Alex Naidionov\C#\vk_save_img\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\Мои документы\Alex Naidionov\C#\ittoiur\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\ittoiur\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Мои документы\Alex Naidionov\C#\ittoiur\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Alex Naidionov\C#\ittoiur\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Мои документы\Alex Naidionov\C#\ittoiur\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Мои документы\Alex Naidionov\C#\ittoiur\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\Мои документы\Alex Naidionov\C#\ittoiur\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\ittoiur\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Мои документы\Alex Naidionov\C#\tripadvisor_ru\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\tripadvisor_ru\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Мои документы\Alex Naidionov\C#\tripadvisor_ru\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\tripadvisor_ru\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Мои документы\Alex Naidionov\C#\tripadvisor_ru\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Alex Naidionov\C#\tripadvisor_ru\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Мои документы\Alex Naidionov\C#\tripadvisor_ru\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Мои документы\Alex Naidionov\C#\tripadvisor_ru\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\Мои документы\Alex Naidionov\C#\booking_com\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\booking_com\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Мои документы\Alex Naidionov\C#\booking_com\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\booking_com\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Мои документы\Alex Naidionov\C#\booking_com\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Alex Naidionov\C#\booking_com\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Мои документы\Alex Naidionov\C#\booking_com\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Мои документы\Alex Naidionov\C#\booking_com\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\Мои документы\Alex Naidionov\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Мои документы\Alex Naidionov\C#\parse_free_lance\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Alex Naidionov\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Мои документы\Alex Naidionov\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Мои документы\Alex Naidionov\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\Мои документы\Alex Naidionov\C#\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Мои документы\Alex Naidionov\C#\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.application
+C:\Users\Alex\Desktop\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Alex\Desktop\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Alex\Desktop\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\Alex\Desktop\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\Alex\Desktop\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Alex\Desktop\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Alex\Desktop\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Alex\Desktop\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\Alex\Desktop\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+C:\Users\Alex\Desktop\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.application
+D:\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\C#\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+D:\C#\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.application
+D:\C#\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\C#\parse_free_lance\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+D:\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+D:\C#\parse_free_lance\WindowsApplication1\obj\Debug\WindowsApplication1.application
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.application
+D:\C#\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\C#\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\C#\parse_free_lance_NEW\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+D:\C#\parse_free_lance_NEW\WindowsApplication1\bin\Debug\WindowsApplication1.application
+D:\C#\parse_free_lance_NEW\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\C#\parse_free_lance_NEW\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\C#\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+D:\C#\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\C#\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\C#\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\C#\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+D:\C#\parse_free_lance_NEW\WindowsApplication1\obj\Debug\WindowsApplication1.application
+D:\C#\parse_free_lance_Lite\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+D:\C#\parse_free_lance_Lite\WindowsApplication1\bin\Debug\WindowsApplication1.application
+D:\C#\parse_free_lance_Lite\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\C#\parse_free_lance_Lite\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\C#\parse_free_lance_Lite\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\C#\parse_free_lance_Lite\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\C#\parse_free_lance_Lite\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\C#\parse_free_lance_Lite\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+D:\C#\parse_free_lance_Lite\WindowsApplication1\obj\Debug\WindowsApplication1.application
+D:\C#\parse_free_lance_Lite\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\C#\parse_free_lance_Lite\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\C#\parse_free_lance_Lite\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+C:\Users\stas\Documents\Visual Studio 2012\Projects\parse_free_lance_lite_new\WindowsApplication1\obj\Debug\WindowsApplication1.application
+D:\C#\parse_free_lance_lite_(save_auto)\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+D:\C#\parse_free_lance_lite_(save_auto)\WindowsApplication1\bin\Debug\WindowsApplication1.application
+D:\C#\parse_free_lance_lite_(save_auto)\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\C#\parse_free_lance_lite_(save_auto)\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\C#\parse_free_lance_lite_(save_auto)\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+D:\C#\parse_free_lance_lite_(save_auto)\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\C#\parse_free_lance_lite_(save_auto)\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\C#\parse_free_lance_lite_(save_auto)\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\C#\parse_free_lance_lite_(save_auto)\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+D:\C#\parse_free_lance_lite_(save_auto)\WindowsApplication1\obj\Debug\WindowsApplication1.application
+D:\C#\parse_free_lance_lite_(save_auto)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\C#\parse_free_lance_lite_(save_auto)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
